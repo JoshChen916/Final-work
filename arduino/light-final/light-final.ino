@@ -1,4 +1,4 @@
-//references: https://www.youtube.com/watch?v=Ukq0tH2Tnkc；https://www.youtube.com/watch?v=2owTxbrmY-s&t=192s
+//references: https://www.youtube.com/watch?v=Ukq0tH2Tnkc；https://www.youtube.com/watch?v=2owTxbrmY-s&t=192s; https://create.arduino.cc/projecthub/pibots555/how-to-connect-dht11-sensor-with-arduino-uno-f4d239; https://arduinogetstarted.com/tutorials/arduino-temperature-humidity-sensor; https://create.arduino.cc/projecthub/arcaegecengiz/how-to-use-a-touch-sensor-81b7f4
 #include <DHT.h> // call the humanity sensor library
 #include <FastLED.h>// call the stript light sensor
 #define NUM_LEDS  60 // the number of led on stript light that will be used
