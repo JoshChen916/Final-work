@@ -1,3 +1,4 @@
+// referrences & tutorials:
 //https://editor.p5js.org/Mithru/sketches/Hk1N1mMQg
 //https://gorillasun.de/blog/introduction-to-perlin-noise-in-p5js-and-processing
 //https://genekogan.com/code/p5js-perlin-noise/
